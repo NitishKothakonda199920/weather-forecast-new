@@ -15,3 +15,4 @@ A simple Python app to fetch current weather data for any city using the OpenWea
    ```bash
    git clone https://github.com/NitishKothakonda199920/weather-forecast-new.git
    cd weather-forecast-app
+<img width="235" alt="image" src="https://github.com/user-attachments/assets/7aaf9805-81aa-44a5-829d-b65e24904115" />
