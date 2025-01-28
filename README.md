@@ -1,1 +1,17 @@
-"# weather-forecast-new" 
+
+# Weather Forecast App
+
+A simple Python app to fetch current weather data for any city using the OpenWeatherMap API.
+
+## Features
+- Input a city name to get:
+  - Current temperature
+  - Weather condition
+  - Humidity
+  - Wind speed
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/NitishKothakonda199920/weather-forecast-new.git
+   cd weather-forecast-app
